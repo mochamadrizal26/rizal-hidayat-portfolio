@@ -1,0 +1,14 @@
+import styles from './FooterSyles.module.css';
+
+function Footer() {
+  return (
+    <section id="footer" className={styles.container}>
+        <p>
+            &copy; 2026 Rizal Hidayat. <br/>
+            All rights reserved.
+        </p>
+    </section>
+  );
+}
+
+export default Footer;
