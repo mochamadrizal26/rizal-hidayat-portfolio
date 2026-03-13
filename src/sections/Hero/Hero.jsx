@@ -52,7 +52,7 @@ function Hero() {
         <p className={styles.description}>
           Driven Java developer focused on creating reliable and maintainable solutions for businesses.
         </p>
-        <a href="https://docs.google.com/document/d/1_pYWLeCfuuNKNAsAc7cPRTWsxEaO8JeCFB-pv3hAanY/export?format=pdf" download>
+        <a href="https://docs.google.com/document/d/1U4FnOdAj8qb6nKp2KpsefFf5QfqA7s3hRU9aZlpEZXg/export?format=pdf" download>
           <button className="hover">
             Resume
           </button>
